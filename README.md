@@ -54,3 +54,5 @@ print(f'O valor da hipotnusa é {hi:.2f}')
 
 
 Colocando emoji🖖
+
+primeiro projeto == [Fazer em markdown emojis](https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file#hand-fingers-open)
